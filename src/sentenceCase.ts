@@ -20,7 +20,7 @@ import upperFirst from 'lodash/upperFirst';
  * 'My String' => 'My string'
  */
 export function sentenceCase(value: string): string {
-  if(isString(value) && !isNaN(parseInt(value))) {
+  if(isString(value) && isNaN(parseInt(value))) {
     return value;
   }
   
