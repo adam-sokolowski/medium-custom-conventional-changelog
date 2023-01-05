@@ -1,6 +1,6 @@
 {
   "name": "medium-custom-conventional-changelog",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Base setup and examples for custom changelogs with standard version",
   "main": "index.js",
   "repository": "https://github.com/adam-sokolowski/medium-custom-conventional-changelog.git",
