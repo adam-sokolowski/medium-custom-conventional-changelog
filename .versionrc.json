@@ -5,6 +5,7 @@
     {"type": "docs", "section": "Documentation"},
     {"type": "refactor", "section": "Code refactor"},
     {"type": "perf", "section": "Performance improvements"},
-    {"type": "test", "section": "Unit tests"}
+    {"type": "test", "section": "Unit tests"},
+    {"type": "chore", "section": "Maintenance updates"}
   ]
 }

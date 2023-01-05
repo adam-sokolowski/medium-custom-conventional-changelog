@@ -16,8 +16,8 @@
     "standard-version": "^9.5.0"
   },
   "devDependencies": {
-    "@types/jest": "~26.0.10",
-    "@types/lodash": "^4.14.191",
+    "@types/jest": "26.0.10",
+    "@types/lodash": "4.14.191",
     "jest": "~26.4.0",
     "ts-jest": "~26.3.0",
     "tslib": "^2.4.1",
