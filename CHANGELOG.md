@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/adam-sokolowski/medium-custom-conventional-changelog/compare/v1.2.0...v1.2.1) (2023-01-05)
+
+
+### Maintenance updates
+
+* **packages:** fixes the version of jest typings to `26.0.10` ([3ba8821](https://github.com/adam-sokolowski/medium-custom-conventional-changelog/commit/3ba8821a7930028e7c83c877885f6d236000d3ce))
+
 ## 1.2.0 (2023-01-05)
 
 
