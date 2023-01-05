@@ -1,0 +1,9 @@
+{
+  "name": "medium-custom-conventional-changelog",
+  "version": "1.0.0",
+  "description": "Base setup and examples for custom changelogs with standard version",
+  "main": "index.js",
+  "repository": "https://github.com/adam-sokolowski/medium-custom-conventional-changelog.git",
+  "author": "Adam Sokołowski <adam.sokolowski@gmail.com>",
+  "license": "MIT"
+}

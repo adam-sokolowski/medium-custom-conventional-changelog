@@ -1,1 +1,1 @@
-# medium-custom-conventional-changelog
+# Custom changelog
