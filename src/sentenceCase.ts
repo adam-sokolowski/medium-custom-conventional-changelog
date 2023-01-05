@@ -28,11 +28,9 @@ export function sentenceCase(value: string): string {
     return '';
   }
 
-  const normalized = toLower(
-    startCase(
-      camelCase(value)
-    )
+  const normalizedString = toLower(
+    startCase(camelCase(value))
   );
 
-  return upperFirst(normalized);
+  return upperFirst(normalizedString);
 }
